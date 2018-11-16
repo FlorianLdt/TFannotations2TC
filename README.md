@@ -1,5 +1,5 @@
 # TFannotations2TC
-Convert a TensorFlow annotations csv file into a Turi Create annotations csv file
+Convert a TensorFlow annotations csv file into a Turi Create annotations csv file.
 
 ## Overview 
 
